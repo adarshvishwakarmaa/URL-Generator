@@ -20,17 +20,23 @@ URL Generator
 
 ## Images
 
+## Step-by-Step
+
 - **Step 1**: Go to `localhost:8002/signup`
-  <br>
-  <img src="https://github.com/user-attachments/assets/5f2e92cf-93d3-4313-8a11-858d141be35a" alt="Screenshot 2025-01-28" width="300" />
-  **Step 2**: Go to `localhost:8002/signup`
-  <img src="https://github.com/user-attachments/assets/5f2e92cf-93d3-4313-8a11-858d141be35a" alt="Screenshot 2025-01-28" width="300" />
-  **Step 3**: Go to `localhost:8002/signup`
-  <img src="https://github.com/user-attachments/assets/5f2e92cf-93d3-4313-8a11-858d141be35a" alt="Screenshot 2025-01-28" width="300" />
-  **Step 4**: Go to `localhost:8002/signup`
-  <img src="https://github.com/user-attachments/assets/5f2e92cf-93d3-4313-8a11-858d141be35a" alt="Screenshot 2025-01-28" width="300" />
-  **Step 5**: Go to `localhost:8002/signup`
-  <img src="https://github.com/user-attachments/assets/5f2e92cf-93d3-4313-8a11-858d141be35a" alt="Screenshot 2025-01-28" width="300" />
+  <img src="https://github.com/user-attachments/assets/5f2e92cf-93d3-4313-8a11-858d141be35a" alt="Screenshot 2025-01-28" width="300" style="display: inline-block; margin-right: 10px;" />
+
+- **Step 2**: Go to `localhost:8002/login`
+  <img src="https://github.com/user-attachments/assets/e8b9ba53-5eac-4eb0-9f9f-3efd7ba7520d" alt="Screenshot 2025-01-28" width="300" style="display: inline-block; margin-right: 10px;" />
+
+- **Step 3**: Go to `localhost:8002`
+  <img src="https://github.com/user-attachments/assets/1122d7fa-43ff-4e69-b6ed-9dadfbe7374c" alt="Screenshot 2025-01-28" width="300" style="display: inline-block; margin-right: 10px;" />
+
+- **Step 4**: Go to `localhost:8002/url`
+  <img src="https://github.com/user-attachments/assets/fb7e45d2-0c9e-42e4-a51c-733f50db373d" alt="Screenshot 2025-01-28" width="300" style="display: inline-block; margin-right: 10px;" />
+
+- **Step 5**: Go to `localhost:8002`
+  <img src="https://github.com/user-attachments/assets/33d54d61-fdd1-436f-9ca1-b40d956f2db1" alt="Screenshot 2025-01-28" width="300" style="display: inline-block; margin-right: 10px;" />
+
 
 ## Getting Started
 
