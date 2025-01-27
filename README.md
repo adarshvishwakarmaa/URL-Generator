@@ -8,7 +8,8 @@ URL Generator
 
 2.Server-Side Rendering with EJS: Built dynamic web applications leveraging EJS as a templating engine in Node.js. Utilized EJS to create reusable, dynamic views, integrating real-time data and optimizing server-side rendering for improved user experiences.
 
-![URL Generator](./images/crypto-dashboard.png)
+![URL Generator]1.Step //go to localhost:8002/signup ![Screenshot 2025-01-28 005408](https://github.com/user-attachments/assets/5f2e92cf-93d3-4313-8a11-858d141be35a
+)
 
 ## Getting Started
 
