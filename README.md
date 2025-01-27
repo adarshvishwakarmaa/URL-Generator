@@ -1,0 +1,1 @@
+This repository demonstrates server-side rendering using EJS and Node.js. It includes a complete setup of EJS as the templating engine and showcases how to create dynamic and responsive views for web applications. Ideal for developers looking to understand and implement server-side rendering with EJS.
