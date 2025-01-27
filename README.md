@@ -1,1 +1,3 @@
-This repository demonstrates server-side rendering using EJS and Node.js. It includes a complete setup of EJS as the templating engine and showcases how to create dynamic and responsive views for web applications. Ideal for developers looking to understand and implement server-side rendering with EJS.
+1.URL Shortener Service: Developed a fully functional URL shortener service using Node.js, Express.js, and MongoDB. Implemented core features like URL shortening, redirection, and database connectivity, ensuring scalability and performance for handling high volumes of requests.
+
+2.Server-Side Rendering with EJS: Built dynamic web applications leveraging EJS as a templating engine in Node.js. Utilized EJS to create reusable, dynamic views, integrating real-time data and optimizing server-side rendering for improved user experiences.
